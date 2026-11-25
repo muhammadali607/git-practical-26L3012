@@ -1,10 +1,8 @@
-# Project Documentation
 
-This repository is for my Git practical.
+## Usage
+1. Clone the repository
+2. Create a new branch
+3. Make changes and commit them
 
-## About
-This project shows how to use branches and commits.
-
-## Files
-- README.md
-- GIT.html
+## Author
+Muhammad Ali, Roll No 26L-3012
