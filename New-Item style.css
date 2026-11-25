@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+h1 {
+    color: darkblue;
+}
+
+form {
+    margin: 20px;
+}
+input {
+    padding: 8px;
+    margin-bottom: 10px;
+}
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 8px 16px;
+}
